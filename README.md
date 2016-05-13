@@ -1,3 +1,7 @@
+## Note
+This repo is a fork of the original and fantastic [StylishThemes](https://github.com/StylishThemes/GitHub-Dark) repo. I made this copy to play with the code and tweak to my hearts content. Please take a look at the original repository if you are interested in installing this theme, as I'm not likely to keep up with updates.
+
+
 # GitHub Dark [![](https://img.shields.io/github/tag/JustinPainter/GitHub-Dark.svg)](https://github.com/JustinPainter/GitHub-Dark/tags) [![](http://github-svg-buttons.herokuapp.com/star.svg?user=StylishThemes&repo=GitHub-Dark&style=flat&background=007ec6)](http://github.com/JustinPainter/GitHub-Dark) [![](http://github-svg-buttons.herokuapp.com/fork.svg?user=StylishThemes&repo=GitHub-Dark&style=flat&background=007ec6)](http://github.com/JustinPainter/GitHub-Dark/fork) [![](https://img.shields.io/david/dev/JustinPainter/GitHub-Dark.svg)](https://david-dm.org/JustinPainter/GitHub-Dark#info=devDependencies)
 
 Your eyes will :heart: you.
@@ -18,9 +22,9 @@ Your eyes will :heart: you.
 
 ## Additional GitHub customization
 
-* [GitHub-code-wrap](https://github.com/JustinPainter/GitHub-code-wrap) to wrap long lines in code boxes
-* [GitHub-FixedHeader](https://github.com/JustinPainter/GitHub-FixedHeader) to have a fixed header
-* [GitHub-Commit-Limit](https://github.com/JustinPainter/GitHub-Commit-Limit) to show line length limits when editing a commit message
+* [GitHub-code-wrap](https://github.com/StylishThemes/GitHub-code-wrap) to wrap long lines in code boxes
+* [GitHub-FixedHeader](https://github.com/StylishThemes/GitHub-FixedHeader) to have a fixed header
+* [GitHub-Commit-Limit](https://github.com/StylishThemes/GitHub-Commit-Limit) to show line length limits when editing a commit message
 
 ## Supported GitHub Addons
 
